@@ -1,0 +1,5 @@
+{
+    "directory": "./",
+    "port": 8000,
+    "intervalInSeconds": 60
+}

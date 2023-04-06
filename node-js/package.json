@@ -1,0 +1,9 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prom-client": "^14.2.0"
+  }
+}
